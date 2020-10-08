@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Alinea_Task/static/css/main.9b3ad2fb.chunk.css",
+    "main.js": "/Alinea_Task/static/js/main.e2514ee2.chunk.js",
+    "main.js.map": "/Alinea_Task/static/js/main.e2514ee2.chunk.js.map",
+    "runtime-main.js": "/Alinea_Task/static/js/runtime-main.142690ae.js",
+    "runtime-main.js.map": "/Alinea_Task/static/js/runtime-main.142690ae.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/Alinea_Task/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.ef2b3bca.chunk.js": "/Alinea_Task/static/js/2.ef2b3bca.chunk.js",
+    "static/js/2.ef2b3bca.chunk.js.map": "/Alinea_Task/static/js/2.ef2b3bca.chunk.js.map",
+    "index.html": "/Alinea_Task/index.html",
+    "precache-manifest.c74dad1fdd954a9b86554c1148edb4d4.js": "/Alinea_Task/precache-manifest.c74dad1fdd954a9b86554c1148edb4d4.js",
+    "service-worker.js": "/Alinea_Task/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/Alinea_Task/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.9b3ad2fb.chunk.css.map": "/Alinea_Task/static/css/main.9b3ad2fb.chunk.css.map",
+    "static/js/2.ef2b3bca.chunk.js.LICENSE.txt": "/Alinea_Task/static/js/2.ef2b3bca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.142690ae.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.ef2b3bca.chunk.js",
+    "static/css/main.9b3ad2fb.chunk.css",
+    "static/js/main.e2514ee2.chunk.js"
+  ]
+}
